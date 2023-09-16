@@ -34,10 +34,10 @@
 ## Demo
 单车Demo
 
-[![Watch the video](./readme-data/单车视频封面.png)](./readme-data/单车原视频.mp4)
+[![Watch the video](./readme-data/单车视频封面.png)](./readme-data/单车压缩视频.mp4)
 
 
 
 双车Demo：
 
-[![Watch the video](./readme-data/双车视频封面.png)](./readme-data/双车原视频.mp4)
+[![Watch the video](./readme-data/双车视频封面.png)](./readme-data/双车压缩视频.mp4)
