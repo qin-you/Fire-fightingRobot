@@ -34,7 +34,7 @@
 ## Demo
 
 单车Demo：
-<video src="./readme-data/单车原视频.mp4"></video>
+<video src="./readme-data/单车压缩视频.mp4"></video>
 
 双车Demo：
-<video src="./readme-data/双车原视频.mp4"></video>
+<video src="./readme-data/双车压缩视频.mp4"></video>
