@@ -32,12 +32,12 @@
 
 
 ## Demo
-单车Demo
+单车Demo (点击图片可查看视频)
 
-[![Watch the video](./readme-data/单车视频封面.png)](./readme-data/单车压缩视频.mp4)
+[![Watch the video](./readme-data/单车视频封面.png)](https://www.bilibili.com/video/BV1Up4y1A7Aa/?share_source=copy_web&vd_source=3a47af2bdf0098d9549048b60e2f083a)
 
 
 
 双车Demo：
 
-[![Watch the video](./readme-data/双车视频封面.png)](./readme-data/双车压缩视频.mp4)
+[![Watch the video](./readme-data/双车视频封面.png)](https://www.bilibili.com/video/BV1P94y1s7xo/?share_source=copy_web&vd_source=3a47af2bdf0098d9549048b60e2f083a)
